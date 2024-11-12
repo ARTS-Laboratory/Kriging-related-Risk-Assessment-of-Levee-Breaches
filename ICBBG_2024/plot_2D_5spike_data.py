@@ -2,7 +2,7 @@
 """
 Created on Thu Feb 29 14:58:49 2024
 
-@author: chypu
+@author:  Puja Chowdhury
 """
 
 # Importing libraries
