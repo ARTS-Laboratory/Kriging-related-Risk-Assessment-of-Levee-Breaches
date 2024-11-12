@@ -1,5 +1,6 @@
-# Kriging-related-Risk Assessment of Levee Breaches
-# IMECHE_2024
+# Kriging-Related-Risk Assessment of Levee Breaches
+This repository contains code, data, and plots for all papers related to Data-driven fragility framework: Developed a framework for risk assessment of levee breaches Project (funded by the NSF grant number 2152896)
+## IMECHE_2024
 
 This folder contains code, data, and plots for 1D kriging for compacted soil  for paper IMECHE 2024
 
@@ -16,7 +17,7 @@ This folder contains code, data, and plots for 1D kriging for compacted soil  fo
 
 
 
-# ICBBG_2024
+## ICBBG_2024
 
 This folder contains code, data, and plots for 1D kriging for different soil compositions for paper ICBBG 2024
 
