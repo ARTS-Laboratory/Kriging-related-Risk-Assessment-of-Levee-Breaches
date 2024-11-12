@@ -2,7 +2,7 @@
 """
 Created on Tue Apr 16 12:44:58 2024
 
-@author: chypuja
+@author:  Puja Chowdhury
 https://geostat-framework.readthedocs.io/_/downloads/pykrige/en/v1.5.0/pdf/
 # 1D ordinary kringing with nlag, nuggest, variogramrange control
 """
